@@ -25,7 +25,7 @@
     "illuminate/filesystem": "*",
     "illuminate/support": "*",
     "jeremeamia/superclosure": "^2.3",
-    "nesbot/carbon": "~1.0",
+    "nesbot/carbon": "*",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
   },
   "require-dev": {
